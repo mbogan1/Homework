@@ -1,0 +1,87 @@
+body{
+
+    background: url(assets/bckgrnd.png) left top repeat;
+     
+}
+
+/* Top half of the page styling */
+nav{
+ padding: 15px;
+ padding-top: 15px;
+ margin-left: auto;
+      
+}
+img {margin: 0px 5px 0px 5px
+}
+
+.top{
+    padding: 15px;
+    margin-left: auto;
+    padding-top: 50px;
+    margin-right: 750px;
+}
+h1, h2{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: #333333;
+}
+h2{
+    font-weight: bolder;
+}
+.bio{
+    font-family: 'Open Sans', sans-serif;
+    color: #333333;
+    line-height: 1.5;
+    padding: 1px;
+}
+
+.myPicture{
+    margin-left: 10px;
+    border: 3px solid #2c5fa8;
+    width: 200px;
+    height: 200px;
+    border-radius: 75%;
+      
+}
+/* Bottom half of the page styling */
+
+.bottom{
+    
+    background-color: #969696;
+    background-color: rgba(150,150,150,0.6);
+    margin-left: 0%;
+    margin-bottom: 0%;
+    
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;;
+    color: #FFFFFF;
+    margin: auto;
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+.boxpage, .cheesy, .fan{
+    width: 300px;
+    height: 200px;
+    margin: 25px 50px 75px 100px;
+
+}
+
+
+footer{
+    
+    border-top: 1px solid white;
+   margin-left: 75px;
+   margin-right: 75px;
+    color: #FFFFFF;
+}
+
+.footer{
+    margin: 10px 75px 10px 75px;
+    padding-left: 500px;
+    padding-bottom: 10px;
+}
